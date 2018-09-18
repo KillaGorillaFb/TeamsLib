@@ -1,0 +1,9 @@
+C:\Users\barri\source\repos\TeamsLib\TeamsLib\obj\Debug\netstandard2.0\TeamsLib.csprojAssemblyReference.cache
+C:\Users\barri\source\repos\TeamsLib\TeamsLib\obj\Debug\netstandard2.0\TeamsLib.csproj.CoreCompileInputs.cache
+C:\Users\barri\source\repos\TeamsLib\TeamsLib\obj\Debug\netstandard2.0\TeamsLib.AssemblyInfoInputs.cache
+C:\Users\barri\source\repos\TeamsLib\TeamsLib\obj\Debug\netstandard2.0\TeamsLib.AssemblyInfo.cs
+C:\Users\barri\source\repos\TeamsLib\TeamsLib\bin\Debug\netstandard2.0\TeamsLib.deps.json
+C:\Users\barri\source\repos\TeamsLib\TeamsLib\bin\Debug\netstandard2.0\TeamsLib.dll
+C:\Users\barri\source\repos\TeamsLib\TeamsLib\bin\Debug\netstandard2.0\TeamsLib.pdb
+C:\Users\barri\source\repos\TeamsLib\TeamsLib\obj\Debug\netstandard2.0\TeamsLib.dll
+C:\Users\barri\source\repos\TeamsLib\TeamsLib\obj\Debug\netstandard2.0\TeamsLib.pdb
